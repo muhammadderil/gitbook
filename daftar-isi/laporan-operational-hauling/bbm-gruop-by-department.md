@@ -1,12 +1,12 @@
 # BBM Gruop By Department
 
-Form BBM Gruop By Department
+### FORM BBM GRUOP BY DEPARTMENT
 
 ![](<../../.gitbook/assets/form department.PNG>)
 
 Form ini mengarahkan ke setiap lokasi cost center sesuai dengan apa yang ingin dicari
 
-### Pemakaian BBM
+### PEMAKAIAN BBM
 
 ![](<../../.gitbook/assets/Screenshot (7).png>)
 

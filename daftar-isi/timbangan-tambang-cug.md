@@ -1,6 +1,6 @@
 # Timbangan (Tambang-CUG)
 
-### Tambang-CUG
+### TAMBANG-CUG
 
 ![](../.gitbook/assets/tambang-cug.png)
 

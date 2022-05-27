@@ -6,7 +6,7 @@
 
 DT SAMPAI TUJUAN adalah tabel yang menginformasikan truk pengiriman batubara sudah sampai/completed. Klik No. Lambung untuk melihat data pengiriman batubara
 
-### Form Pengiriman Batubara
+### FORM PENGIRIMAN BATUBARA
 
 ![](../.gitbook/assets/pengiriman-completed.PNG)
 

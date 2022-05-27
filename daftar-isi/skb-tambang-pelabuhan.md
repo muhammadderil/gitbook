@@ -1,6 +1,6 @@
 # SKB (Tambang-Pelabuhan)
 
-### Tambang-Pelabuhan
+### TAMBANG-PELABUHAN
 
 ![](../.gitbook/assets/hauling-skb.png)
 

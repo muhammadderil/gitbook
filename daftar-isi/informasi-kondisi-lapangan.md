@@ -1,6 +1,6 @@
 # Informasi Kondisi Lapangan
 
-### Informasi Kondisi Lapangan
+### INFORMASI KONDISI LAPANGAN
 
 ![](../.gitbook/assets/Informasi-Kondisi-Lapangan.png)
 

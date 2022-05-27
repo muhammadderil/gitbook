@@ -1,18 +1,18 @@
 # Laporan Hauling Detail Kendaraan
 
-## Rincian Penerimaan BB
+## RINCIAN PENERIMAAN BB
 
 ![](../.gitbook/assets/rincian-penerimaan-bb.PNG)
 
 Tabel ini menginformasikan setiap tipe kendaraan yang mengalami kerusakan perhari
 
-### Ritase Breakdown/Parkir/Non Aktip
+### RITASE BREAKDOWN/PARKIR/NON AKTIP
 
 ![](../.gitbook/assets/rincian-breakdown.PNG)
 
 Tabel ini menginformasikan rincian setiap kendaraan yang mengalami kerusakan, parkir, dan Non-aktip.
 
-### Ritase Breadown
+### RITASE BREAKDOWN
 
 ![](../.gitbook/assets/ritase-breakdown.PNG)
 
