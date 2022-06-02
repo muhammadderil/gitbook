@@ -10,4 +10,4 @@ Form ini mengarahkan ke setiap lokasi cost center sesuai dengan apa yang ingin d
 
 ![](<../../.gitbook/assets/Screenshot (7).png>)
 
-Tabel ini menginformasikan pemakaian bbm disetiap cost center perharinya beserta detail gruop kendaraan.
+Hasil dari form tersebut keluar seperti ini, Tabel ini menginformasikan pemakaian bbm disetiap cost center perharinya beserta detail gruop kendaraan.
