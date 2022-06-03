@@ -10,7 +10,7 @@ Tabel ini menginformasikan setiap tipe kendaraan yang mengalami kerusakan perhar
 
 ![](../.gitbook/assets/rincian-breakdown.PNG)
 
-Tabel ini menginformasikan rincian setiap kendaraan yang mengalami kerusakan, parkir, dan Non-aktip.
+Tabel ini menginformasikan status kendaraan yang terjadi disetiap tipe kendaraan. Klik no.lambung untuk melihat informasi detail di setiap kendaraan.
 
 ### RITASE BREAKDOWN
 
