@@ -4,7 +4,7 @@
 
 ![](<../../.gitbook/assets/form department.PNG>)
 
-Form ini mengarahkan ke setiap lokasi cost center sesuai dengan apa yang ingin dicari
+Form ini digunakan untuk melihat informasi di setiap group kendaraan yang dipilih. Carilah cost center kendaraan sesuai dengan list yang telah di sediakan
 
 ### PEMAKAIAN BBM
 
