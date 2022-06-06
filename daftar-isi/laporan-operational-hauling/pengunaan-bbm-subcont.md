@@ -4,4 +4,4 @@
 
 ![](../../.gitbook/assets/pengguna-bbmsubcont.png)
 
-Tabel ini menginformasikan pemakaian bbm disetiap cost center perharinya beserta detail gruop kendaraan.
+Tabel ini menginformasikan pemakaian bbm disetiap group kendaraan perharinya beserta detail gruop kendaraan tersebut.

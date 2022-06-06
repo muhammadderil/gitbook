@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/rincian-penerimaan-bb.PNG)
 
-Tabel ini menginformasikan setiap tipe kendaraan yang mengalami kerusakan perhari
+Tabel ini menginformasikan rincian kendaraan untuk pengantaran batubara perbulannya. Masukan tanggal dan tipe kendaraan untuk mencari sesuai yang diperlukan
 
 ### RITASE BREAKDOWN/PARKIR/NON AKTIP
 
