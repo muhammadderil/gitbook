@@ -16,4 +16,4 @@ Tabel ini menginformasikan ritase bbm yang digunakan setiap kendaraan perharinya
 
 ![](../.gitbook/assets/Laporanhaulingperiode2.png)
 
-Tabel ini menginformasikan pengupahan setip supir yang mengantaran kan batubara perharinya. Disini juga meberikan detail pengantaran batubara disetiap tipe kendaraan
+Tabel ini menginformasikan pengupahan setip supir yang mengantaran kan batubara perharinya. Disini juga memberikan detail pengantaran batubara disetiap tipe kendaraan
