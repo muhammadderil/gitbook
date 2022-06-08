@@ -16,4 +16,4 @@ Tabel ini menginformasikan status kendaraan yang terjadi disetiap tipe kendaraan
 
 ![](../.gitbook/assets/ritase-breakdown.PNG)
 
-Tampilan ini akan muncul ketika mengklik nomor lambung kendaraan. Laporan memperlihatkan informasi setiap kendaraan yang dipilih, user bisa mencari periode dan nomor lambung yang dicari
+Tampilan ini akan muncul ketika meng-klik nomor lambung kendaraan. Laporan memperlihatkan informasi setiap kendaraan yang dipilih, user bisa mencari periode dan nomor lambung yang dicari
