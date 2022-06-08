@@ -10,4 +10,4 @@ Form ini digunakan untuk melihat informasi di setiap cost center kendaraan yang 
 
 ![](<../../.gitbook/assets/Screenshot (7).png>)
 
-Hasil dari form tersebut keluar seperti ini, Tabel ini menginformasikan pemakaian bbm disetiap cost center perharinya beserta detail gruop kendaraan. Jika ingin mencari masukan bulan dan group kendaraan sesuai dengan keperluan.
+Hasil dari form tersebut akan keluar seperti ini, Tabel ini menginformasikan pemakaian bbm disetiap cost center perharinya beserta detail cost center kendaraan. Jika ingin mencari masukan bulan dan cost center kendaraan sesuai dengan yang diperlukan.
